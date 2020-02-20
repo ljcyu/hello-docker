@@ -1,3 +1,3 @@
 FROM busybox:latest
-LABEL ljc
+LABEL maintainer="ljc@qq.com"
 CMD echo hello world
